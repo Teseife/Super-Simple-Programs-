@@ -9,6 +9,22 @@ This repository contains a collection of simple programs that perform various ta
 
 The following programs are included in this repository:
 
+# Llama_Pop_Growth
+
+This program calculates the number of years it would take to reach a specified population of llamas. The program uses a simple formula that takes into account the number of llamas born and passed in a given year. 
+
+## Usage
+
+To use this program, simply compile the `Lama_Pop_Growth.c` file and run the resulting executable. The program will prompt the user to enter the starting population of llamas and the target population. Once the user has entered these values, the program will calculate the number of years it would take to reach the target population using the following formula:
+
+```
+n = current_population
+Years_amount = n + (n / 3) - (n / 4)
+```
+where each year, n / 3 new llamas are born, and n / 4 llamas pass away
+
+The program will repeat the above formula until the new population is greater than or equal to the target population. It will then output the number of years it would take to reach the target population.
+
 - **encrypt_text:** This program encrypts a given text using a simple substitution cipher. The user can provide a key that defines the mapping between plaintext characters and ciphertext characters.
 
 - **decrypt_text:** This program decrypts a given ciphertext using a simple substitution cipher. The user must provide the same key that was used to encrypt the plaintext.

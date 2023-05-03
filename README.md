@@ -13,7 +13,7 @@ The following programs are included in this repository:
 
 This program calculates the number of years it would take to reach a specified population of llamas. The program uses a simple formula that takes into account the number of llamas born and passed in a given year. 
 
-## Usage
+## Usage Llama_pop_Growth
 
 To use this program, simply compile the `Lama_Pop_Growth.c` file and run the resulting executable. The program will prompt the user to enter the starting population of llamas and the target population. Once the user has entered these values, the program will calculate the number of years it would take to reach the target population using the following formula:
 

@@ -1,5 +1,5 @@
 # Super-Simple-Programs-
-This repository is a compilation of programs that perform simple tasks. 
+This repository is a compilation of programs that perform simple program solutions for Harvards CS50x class.
 
 # Simple Programs
 

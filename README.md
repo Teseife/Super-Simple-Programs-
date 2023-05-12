@@ -37,6 +37,6 @@ Once you have compiled a program, you can run it by executing the output file:
 
 Replace `<output_file>` with the name of the output file you compiled earlier.
 
-## Contributing
+## Further usage
 
-If you have any suggestions or improvements for any of these programs, feel free to submit a pull request.
+An indepth explanaiton of the programs is avalable in the `<Program Details.md>` file under `<Programs>`file.

@@ -11,9 +11,9 @@ The following programs are included in this repository:
 
 - **Llama_Pop_Growth:** This program calculates the number of years it would take to reach a specified population of llamas. The program uses a simple formula that takes into account the number of llamas born and passed in a given year. 
 
-- **encrypt_text:** This program encrypts a given text using a simple substitution cipher. The user can provide a key that defines the mapping between plaintext characters and ciphertext characters.
+- **ShiftCypher:** This program encrypts a given text using a formula that shifts letters and outputs the encrypted text. The user inputs a shift key, which is an integer that represents the number of positions each letter should be shifted. The program will then prompt the user to enter the plaintext message to be encrypted. Once the user enters the plaintext, the program will output the ciphertext message.
 
-- **decrypt_text:** This program decrypts a given ciphertext using a simple substitution cipher. The user must provide the same key that was used to encrypt the plaintext.
+- **SubstitutionCipher:** This program encrypts a given text using a simple substitution cipher. The user can provide a key that defines the mapping between plaintext characters and ciphertext characters.
 
 - **count_words:** This program counts the number of words in a given text. A word is defined as a sequence of characters separated by whitespace.
 

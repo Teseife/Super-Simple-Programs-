@@ -44,10 +44,6 @@ Here is an example of how to use the program:
 plaintext: hello world
 ciphertext: khoor zruog
 ```
-
-## Reference
-
-This program is inspired by the Caesar cipher problem set from Harvard University's CS50 course.
 # Substitution Cipher
 
 This program is a simple implementation of the Substitution Cipher algorithm in C. The user can input a substitution key as a command line argument, and then enter a plaintext message to be encrypted using that key. The program will output the ciphertext message.

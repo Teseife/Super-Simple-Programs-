@@ -40,3 +40,7 @@ Replace `<output_file>` with the name of the output file you compiled earlier.
 ## Further usage
 
 An indepth explanaiton of the programs is avalable in the `<Program Details.md>` file under `<Programs>`file.
+
+## License
+
+This program is licensed under the MIT License check `<License.md>` For more details.

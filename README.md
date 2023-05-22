@@ -15,7 +15,7 @@ The following programs are included in this repository:
 
 - **SubstitutionCipher:** This program encrypts a given text using a simple substitution cipher. The user can provide a key that defines the mapping between plaintext characters and ciphertext characters.
 
-- **count_words:** This program counts the number of words in a given text. A word is defined as a sequence of characters separated by whitespace.
+- **WordScoringGame:**This program allows two players to enter words and calculates the scores for each word based on a predefined scoring system. The player with the higher score wins the game.
 
 - **reverse_string:** This program reverses a given string. For example, the string "hello" would be reversed to "olleh".
 

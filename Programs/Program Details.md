@@ -1,3 +1,6 @@
+### Program Details
+This file provides an overview of the programs, instructions for usage, example usage, requirements, licensing information, contribution guidelines, acknowledgements, and a message encouraging users to ask questions or provide feedback. Feel free to customize it further based on your specific needs.
+
 ## Llama_pop_Growth
 
 To use this program, simply compile the `Lama_Pop_Growth.c` file and run the resulting executable. The program will prompt the user to enter the starting population of llamas and the target population. Once the user has entered these values, the program will calculate the number of years it would take to reach the target population using the following formula:
@@ -191,6 +194,4 @@ To increase the volume of an audio file called `audio.wav` by a factor of 1.5 an
 
 ## License
 
-These programs are open source and distributed under the [MIT License].  
-
-This file provides an overview of the programs, instructions for usage, example usage, requirements, licensing information, contribution guidelines, acknowledgements, and a message encouraging users to ask questions or provide feedback. Feel free to customize it further based on your specific needs. 
+These programs are open source and distributed under the [MIT License](https://github.com/Teseife/Super-Simple-Programs-/blob/main/LICENSE).  

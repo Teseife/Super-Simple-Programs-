@@ -39,8 +39,8 @@ Replace `<output_file>` with the name of the output file you compiled earlier.
 
 ## Further usage
 
-An indepth explanaiton of the programs is avalable in the `<Program Details.md>` file under `<Programs>`file.
+An indepth explanaiton of the programs is avalable in the [Program Details.md](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/Program%20Details.md) file under [Programs](https://github.com/Teseife/Super-Simple-Programs-/tree/main/Programs) file.
 
 ## License
 
-This program is licensed under the MIT License check `<License.md>` For more details.
+This program is licensed under the MIT License check [License.md](https://github.com/Teseife/Super-Simple-Programs-/blob/main/LICENSE) For more details.

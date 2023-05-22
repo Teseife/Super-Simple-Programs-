@@ -70,44 +70,15 @@ ciphertext: Tqxxa txygx
 ```
 
 
-```
+Sure! Here's a README file for your program:
+
 # Word Scoring Game
 
-The Word Scoring Game is a simple command-line program written in C. It allows two players to enter words, and then calculates and compares the scores of the words based on the point values assigned to each letter of the alphabet.
+This program allows two players to enter words and calculates the scores for each word based on a predefined scoring system. The player with the higher score wins the game.
 
-## How to Play
+## Scoring System
 
-1. The program prompts for input from Player 1: "Player 1: ".
-2. Player 1 enters a word.
-3. The program prompts for input from Player 2: "Player 2: ".
-4. Player 2 enters a word.
-5. The program calculates the score for each word based on the assigned point values of the letters.
-6. The program compares the scores and determines the winner:
-   - If Player 1's score is higher than Player 2's score, it displays "Player 1 wins".
-   - If Player 2's score is higher than Player 1's score, it displays "Player 2 wins".
-   - If both players have the same score, it displays "Tie!".
-
-## How to Run
-
-1. Ensure you have a C compiler (e.g., GCC) installed on your system.
-2. Compile the source code by running the following command in your terminal:
-
-   ```shell
-   gcc -o word_scoring_game word_scoring_game.c
-   ```
-
-3. Run the program with the following command:
-
-   ```shell
-   ./word_scoring_game
-   ```
-
-4. Follow the prompts to input words for Player 1 and Player 2.
-5. The program will display the winner or a tie.
-
-## Points Assignment
-
-The scoring of the words is based on the following point values assigned to each letter of the alphabet:
+The scoring system assigns points to each letter of the alphabet. The points assigned to each letter are as follows:
 
 | Letter | Points |
 |--------|--------|
@@ -138,13 +109,58 @@ The scoring of the words is based on the following point values assigned to each
 | Y      | 4      |
 | Z      | 10     |
 
-## License
+## How to Use
 
-This program is open source and distributed under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
+1. Run the program.
+2. Player 1 will be prompted to enter their word.
+3. Player 2 will be prompted to enter their word.
+4. The program will calculate and display the scores for both words.
+5. The program will determine the winner based on the scores:
+   - If player 1 has a higher score than player 2, it will display "Player 1 wins."
+   - If player 2 has a higher score than player 1, it will display "Player 2 wins."
+   - If both players have the same score, it will display "Tie!"
+
+## How Scores are Calculated
+
+The program calculates the score for each word by iterating over each character in the word. It checks whether the character is a lowercase or uppercase letter and adds the corresponding points to the total score.
+
+## Example
 
 ```
+Player 1: hello
+Player 2: world
 
-Make sure to include this README file in the same directory as the program file (`word_scoring_game.c`). Feel free to adjust or expand the content as needed.
+Player 1 score: 8
+Player 2 score: 9
+Player 2 wins!
+```
+
+## Dependencies
+
+The program uses the following libraries:
+
+- ctype.h: for character type checking functions
+- cs50.h: for input/output functions
+- stdio.h: for standard input/output functions
+- string.h: for string manipulation functions
+
+## Compatibility
+
+This program is written in C and is compatible with any C compiler that supports the standard libraries used.
+
+Feel free to modify the program or scoring system according to your needs.
+
+Enjoy playing the word scoring game!
+
+
+## Points Assignment
+
+The scoring of the words is based on the following point values assigned to each letter of the alphabet:
+
+
+
 ## License
 
-This program is licensed under the MIT License.
+This program is open source and distributed under the [MIT License]. 
+
+

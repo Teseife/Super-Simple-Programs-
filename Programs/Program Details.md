@@ -140,7 +140,6 @@ Player 2 wins!
 The program uses the following libraries:
 
 - ctype.h: for character type checking functions
-- cs50.h: for input/output functions
 - stdio.h: for standard input/output functions
 - string.h: for string manipulation functions
 
@@ -151,7 +150,6 @@ This program is written in C and is compatible with any C compiler that supports
 Feel free to modify the program or scoring system according to your needs.
 
 Enjoy playing the word scoring game!
-
 
 ## Points Assignment
 

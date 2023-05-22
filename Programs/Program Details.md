@@ -156,9 +156,44 @@ Enjoy playing the word scoring game!
 The scoring of the words is based on the following point values assigned to each letter of the alphabet:
 
 
+# VolumeScale
+
+VolumeScale is a simple program that allows you to modify the volume of a WAV audio file. This program is written in C and can be used as a command-line tool.
+
+## Usage
+
+To use VolumeScale, follow the steps below:
+
+1. Clone the repository or download the source code.
+2. Compile the program using a C compiler.
+3. Run the compiled executable with the following command-line arguments:
+
+```
+./volume input.wav output.wav factor
+```
+
+- `input.wav`: The path to the input audio file (WAV format).
+- `output.wav`: The path to the output audio file (WAV format).
+- `factor`: The scaling factor to modify the volume. Use a float value greater than 0.0 to increase the volume or less than 0.0 to decrease the volume.
+
+Make sure to replace `input.wav`, `output.wav`, and `factor` with the appropriate values for your use case.
+
+## Example
+
+To increase the volume of an audio file called `audio.wav` by a factor of 1.5 and save the modified file as `output.wav`, use the following command:
+
+```shell
+./volume audio.wav output.wav 1.5
+```
+## Requirements
+
+- C compiler
+
+```
+This file provides an overview of the programs, instructions for usage, example usage, requirements, licensing information, contribution guidelines, acknowledgements, and a message encouraging users to ask questions or provide feedback. Feel free to customize it further based on your specific needs.  
 
 ## License
 
-This program is open source and distributed under the [MIT License]. 
+These programs are open source and distributed under the [MIT License].  
 
 

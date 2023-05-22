@@ -158,7 +158,7 @@ The scoring of the words is based on the following point values assigned to each
 
 # VolumeScale
 
-VolumeScale is a simple program that allows you to modify the volume of a WAV audio file. This program is written in C and can be used as a command-line tool.
+VolumeScale is a simple program that allows you to modify the volume of a WAV audio file. This program is written in C and can be used as a command-line tool. Do not know what a WAV file is ? CLICK here to read more [WAVFILE](https://www.wikiwand.com/en/WAV#Description)
 
 ## Usage
 

@@ -187,10 +187,7 @@ To increase the volume of an audio file called `audio.wav` by a factor of 1.5 an
 ```
 ## Requirements
 
-- C compiler
-
-```
-This file provides an overview of the programs, instructions for usage, example usage, requirements, licensing information, contribution guidelines, acknowledgements, and a message encouraging users to ask questions or provide feedback. Feel free to customize it further based on your specific needs.  
+- C compiler 
 
 ## License
 

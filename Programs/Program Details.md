@@ -193,6 +193,36 @@ To increase the volume of an audio file called `audio.wav` by a factor of 1.5 an
 
 - C compiler 
 
+
+# GeneInheritance 
+
+## Description
+
+GeneInheritance.c, simulates the genetic inheritance of blood types for a family tree structure. It represents a person with a struct, where each person has two parents and two alleles. The alleles represent the blood type of the person.
+
+The main purpose of this program is to demonstrate the inheritance of blood types in a family structure for educational purposes. It helps students understand the concept of genetic inheritance and how genes are passed from parents to offspring. It also helps in understanding some key concepts in C programming such as structs, pointers, dynamic memory allocation, and recursion.
+
+## Usage
+
+To use this program, follow these steps:
+
+1. Compile the program with a C compiler:
+
+```bash
+gcc GeneInheritance.c -o GeneInheritance
+```
+
+2. Run the executable:
+
+```bash
+./GeneInheritance
+```
+
+The program will output a family tree of three generations with their blood types.
+
+```
+The above instructions for all programs assume that the user has access to a Unix-like terminal and a GCC compiler. 
+```
 ## License
 
 These programs are open source and distributed under the [MIT License](https://github.com/Teseife/Super-Simple-Programs-/blob/main/LICENSE).  

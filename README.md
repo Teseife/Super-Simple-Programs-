@@ -19,7 +19,7 @@ The following programs are included in this repository:
 
 - **VolumeScale:** VolumeScale is a simple program that allows you to modify the volume of a WAV audio file. This program is written in C and can be used as a command-line tool. Source Code [VolumeScale](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/VolumeScale.c)
 
--** GeneInheritance:** simulates the genetic inheritance of blood types for a family tree structure. It represents a person with a struct, where each person has two parents and two alleles. The alleles represent the blood type of the person. Source Code: [GeneInheritance.c](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/GeneInhertiance.c)
+- **GeneInheritance:** simulates the genetic inheritance of blood types for a family tree structure. It represents a person with a struct, where each person has two parents and two alleles. The alleles represent the blood type of the person. Source Code: [GeneInheritance.c](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/GeneInhertiance.c)
 
 - **reverse_string:** This program reverses a given string. For example, the string "hello" would be reversed to "olleh". Source Code[]
 

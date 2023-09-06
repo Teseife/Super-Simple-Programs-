@@ -1,9 +1,9 @@
 # Super-Simple-Programs Projects KEY-
-[Llama_Pop_Growth](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/Llama_Pop_Growth.c)
-[ShiftCypher](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/ShiftCypher.c)
-[SubistutuitonCipher](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/SubstitutionCipher.c)
-[WordScoringGame](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/WordScoringGame.c)
-[VolumeScale](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/VolumeScale.c)
+[Llama_Pop_Growth](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/Llama_Pop_Growth.c),
+[ShiftCypher](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/ShiftCypher.c),
+[SubistutuitonCipher](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/SubstitutionCipher.c),
+[WordScoringGame](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/WordScoringGame.c),
+[VolumeScale](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/VolumeScale.c),
 [GeneInheritance.c](https://github.com/Teseife/Super-Simple-Programs-/blob/main/Programs/GeneInhertiance.c)
 
 # Simple Programs
